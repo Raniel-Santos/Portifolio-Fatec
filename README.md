@@ -57,7 +57,7 @@ Atualmente, estou trabalhando na Youtan como Analista de Testes e Qualidade Jún
 
 <span id="1semestre">
 
-<h4 align="center">Primeiro Semestre - Sistema de Divulgação de Informações da FATEC </h4>
+<h2 align="center">Primeiro Semestre - Sistema de Divulgação de Informações da FATEC </h2>
 <br><br>
 
 <h4 align="left">Objetivo</h4> 
@@ -86,7 +86,7 @@ https://github.com/EquipeGfour/API-GFour-Primeiro-Semestre-
 
 <span id="2semestre">
 
-<h4 align="center">Segundo Semestre - Recursos Humanos e Departamento Pessoal para a Empresa IONIC Health </h4><br>
+<h2 align="center">Segundo Semestre - Recursos Humanos e Departamento Pessoal para a Empresa IONIC Health </h2><br>
 <h4 align="left">Objetivo</h4>
 O desafio proposto pela Ionic era de desenvolver uma plataforma para apoiar a área de Recursos Humanos e Departamento Pessoal para controle de todos os talentos da empresa (pessoas). Após a aprovação no processo seletivo se faz necessário o cadastro do colaborador (CLT ou PJ) em um sistema que traga informações sobre sua contratação, controle de documentação, dados, entre outros dados. Temos que levar em consideração da LGPD para que o acesso seja restrito. 
 
@@ -102,13 +102,13 @@ O desafio proposto pela Ionic era de desenvolver uma plataforma para apoiar a á
 <br>
   <h4 align="left">Contribuições Pessoais no Projeto</h4>
 Neste projeto, fui responsável pelo Design geral da aplicação e desenvolvimento do Front-End. Junto dos outros membros da equipe, fizemos toda a conexão do Back-End com o Front-End.
-<br><br>
+<br>
 
 
 <img align="center" src="./img/tela_ionic1.png">  
 <img align="center" src="./img/tela_ionic2.png">
 
-<br> <br>
+<br> 
 <h4 align="left">Link do Repositório</h4>
 
 https://github.com/EquipeGfour/Api-2-Semestre-
@@ -122,7 +122,7 @@ https://github.com/EquipeGfour/Api-2-Semestre-
 
 <span id="3semestre">
 
-<h4 align="center">Terceiro Semestre - Cross-selling para a plataforma online da UOL </h4><br>
+<h2 align="center">Terceiro Semestre - Cross-selling para a plataforma online da UOL </h2><br>
 <h4 align="left">Objetivo</h4> 
 O desafio proposto pela UOL era de desenvolver uma plataforma para incentivar o cross-selling dos produtos e serviços dentro da página de compra, auxiliando no aumento de receita da área de negócio. Com isso, foi firmada a parceria entre a Fatec e a UOL para buscar alternativas disruptivas de cross-selling de produtos e serviços da UOL.
 
@@ -143,12 +143,12 @@ O desafio proposto pela UOL era de desenvolver uma plataforma para incentivar o 
 Neste projeto, fui responsável pelo Design geral da aplicação e desenvolvimento do Front-End. Junto dos outros membros da equipe, fizemos toda a conexão do Back-End com o Front-End. <br>
 Além disso, nesse projeto, atuei como Product Owner (P.O) sendo responsável pelo levantamento e validação de requisitos junto ao nosso cliente. Esse levantamento é primordial, pois com ele é feito o Backlog do Produto, para que a equipe de desenvolvimento possa desenvolver a melhor solução possivel.
 
-<br><br>
+<br>
 
 
 <img align="center" src="./img/Backlog_Uol.png">  
 
-<br> <br>
+<br> 
 
   <br>
 <h4 align="left">Link do Repositório</h4>
@@ -163,7 +163,7 @@ https://github.com/EquipeGfour/API-3Semestre-UOL
 
 <span id="4semestre">
 
-<h4 align="center">Quarto Semestre - Estação Metereológica com a Empresa Tecsus </h4><br>
+<h2 align="center">Quarto Semestre - Estação Metereológica com a Empresa Tecsus </h2><br>
 <h4 align="left">Objetivo</h4> 
 O desafio proposto pela TecSus era de desenvolver uma estação meteorológica. O principal objetivo de criar uma estação meteorológica é coletar dados meteorológicos em tempo real. Esses dados serão coletados por meio de sensores instalados na estação e serão enviados para um servidor na nuvem por meio de uma conexão com a internet. Os dados serão coletados em um tempo determinado e serão disponibilizados para os usuários da estação meteorológica.
 
@@ -182,14 +182,14 @@ O desafio proposto pela TecSus era de desenvolver uma estação meteorológica. 
 Neste projeto, fui responsável pelo desenvolvimento da lógica de funcionamento da estação, junto de mais dois companheiros de equipe. Desenvolvemos tanto a parte de Back-End do sistema como também da lógica de transmissão das informações da estação para nuvem, onde o sistema captura essas informações para o usuário.
 Utilizando o conhecimento adquirido no estágio, foram desenvolvidos e implementados testes unitários e automatizados, visando qualidade do nosso sistema.
 
-<br><br>
+<br>
 
 
 <img align="center" src="./img/estacao_logica.png"><br>
 
 <img align="center" src="./img/testes_estacao.png">
 
-<br> <br>
+<br> 
 
 <
 
@@ -207,7 +207,7 @@ https://github.com/EquipeGfour/API-4SemestreDSM-EstacaoMeteorologica
 
 <span id="5semestre">
 
-<h4 align="center">Quinto Semestre - Task Manager, o aplicativo organizacional para a Oracle Academy </h4><br>
+<h2 align="center">Quinto Semestre - Task Manager, o aplicativo organizacional para a Oracle Academy </h2><br>
 <h4 align="left">Objetivo</h4>
 O desafio proposto pela Oracle Academy era de desenvolver uma aplicação mobile que visa a organização, priorização de tarefas e atribuições diárias, tanto na rotina pessoal quanto no mundo corporativo, priorizando-as por urgência e com marcações de tempo para um controle mais preciso tanto dos objetivos quanto das tarefas, além da mensuração da quantidade de tarefas realizadas e apresentação mensal de resultados de determinado usuário em um dashboard. 
 
@@ -226,14 +226,13 @@ O desafio proposto pela Oracle Academy era de desenvolver uma aplicação mobile
 Neste projeto, assumi o cargo de Scrum Master, onde sou responsável pelo gerenciamento da equipe toda, tanto no controle de tarefas, no auxílio em caso de dificuldades e resolução de possíveis conflitos.<br>
 Nesse projeto, toda a parte de design foi desenvolvida por mim, com foco total em UX/UI dos usuários. O design foi pensado da melhor forma possível, sendo bem claro e intuitivo para qualquer usuário. Neste projeto, estou atuando como desenvolvedor Front-End, liderando a equipe de Front-End a desenvolver a aplicação da forma que foi idealizada.
 
-br><br>
+<br>
 
 
 <img align="center" src="./img/layout_task.png">  
 
 
-<br> <br>
-
+<br> 
 
 
 
@@ -251,7 +250,7 @@ https://github.com/EquipeGfour/API-5Semestre-OracleAcademy
 
 <span id="6semestre">
 
-<h4 align="center">Sexto Semestre - Sistema de Sumarização para a Empresa Dom Rock </h4><br>
+<h2 align="center">Sexto Semestre - Sistema de Sumarização para a Empresa Dom Rock </h2><br>
 <h4 align="left">Objetivo</h4> 
 O objetivo deste projeto é desenvolver um sistema inovador que utiliza inteligência artificial (IA) em linguagem natural para sumarizar automaticamente grandes volumes de comentários de clientes. O sistema irá gerar resumos concisos e informativos, categorizados por diversos critérios relevantes para análise, como produto, categoria, recomendação, geografia e demografia.
 
@@ -268,13 +267,15 @@ O objetivo deste projeto é desenvolver um sistema inovador que utiliza intelig�
   <h4 align="left">Contribuições Pessoais no Projeto</h4>
 Nesse projeto estou liderando a equipe de Front-End. Toda a parte de design foi pensada e desenvolvida considerando os pontos de UX/UI dos usuários. O design foi pensado da melhor forma possível, considerando que são usuários da área de Marketing que usuarão a plataforma. 
 
-<br><br>
+<br>
 
 
-<img align="center" src="./img/login_domrock.png">  <br>
+<img align="center" src="./img/login_domrock.png">  
+<br>
+<br>
 <img align="center" src="./img/dash.png">
 
-<br> <br>
+<br> 
 <h4 align="left">Link do Repositório</h4>
 
 
