@@ -86,7 +86,7 @@ https://github.com/EquipeGfour/API-GFour-Primeiro-Semestre-
 
 <span id="2semestre">
 
-<h2 align="center">Segundo Semestre - Recursos Humanos e Departamento Pessoal para a Empresa IONIC Health </h2><br>
+<h2 align="center">Segundo Semestre - Recursos Humanos e Departamento Pessoal para a Empresa IONIC Health </h2>
 <h4 align="left">Objetivo</h4>
 O desafio proposto pela Ionic era de desenvolver uma plataforma para apoiar a área de Recursos Humanos e Departamento Pessoal para controle de todos os talentos da empresa (pessoas). Após a aprovação no processo seletivo se faz necessário o cadastro do colaborador (CLT ou PJ) em um sistema que traga informações sobre sua contratação, controle de documentação, dados, entre outros dados. Temos que levar em consideração da LGPD para que o acesso seja restrito. 
 
