@@ -58,7 +58,7 @@ Atualmente, estou trabalhando na Youtan como Analista de Testes e Qualidade Jún
 <span id="1semestre">
 
 <h2 align="center">Primeiro Semestre - Sistema de Divulgação de Informações da FATEC </h2>
-<br><br>
+
 
 <h4 align="left">Objetivo</h4> 
 Desenvolver um portal de comunicação alternativo para a FATEC durante a pandemia de COVID-19, visando aliviar a sobrecarga do portal oficial e garantir o acesso contínuo a informações e serviços essenciais para alunos, professores e funcionários.
@@ -122,7 +122,7 @@ https://github.com/EquipeGfour/Api-2-Semestre-
 
 <span id="3semestre">
 
-<h2 align="center">Terceiro Semestre - Cross-selling para a plataforma online da UOL </h2><br>
+<h2 align="center">Terceiro Semestre - Cross-selling para a plataforma online da UOL </h2>
 <h4 align="left">Objetivo</h4> 
 O desafio proposto pela UOL era de desenvolver uma plataforma para incentivar o cross-selling dos produtos e serviços dentro da página de compra, auxiliando no aumento de receita da área de negócio. Com isso, foi firmada a parceria entre a Fatec e a UOL para buscar alternativas disruptivas de cross-selling de produtos e serviços da UOL.
 
@@ -163,7 +163,7 @@ https://github.com/EquipeGfour/API-3Semestre-UOL
 
 <span id="4semestre">
 
-<h2 align="center">Quarto Semestre - Estação Metereológica com a Empresa Tecsus </h2><br>
+<h2 align="center">Quarto Semestre - Estação Metereológica com a Empresa Tecsus </h2>
 <h4 align="left">Objetivo</h4> 
 O desafio proposto pela TecSus era de desenvolver uma estação meteorológica. O principal objetivo de criar uma estação meteorológica é coletar dados meteorológicos em tempo real. Esses dados serão coletados por meio de sensores instalados na estação e serão enviados para um servidor na nuvem por meio de uma conexão com a internet. Os dados serão coletados em um tempo determinado e serão disponibilizados para os usuários da estação meteorológica.
 
@@ -191,7 +191,7 @@ Utilizando o conhecimento adquirido no estágio, foram desenvolvidos e implement
 
 <br> 
 
-<
+
 
   <br>
 <h4 align="left">Link do Repositório</h4>
@@ -207,7 +207,7 @@ https://github.com/EquipeGfour/API-4SemestreDSM-EstacaoMeteorologica
 
 <span id="5semestre">
 
-<h2 align="center">Quinto Semestre - Task Manager, o aplicativo organizacional para a Oracle Academy </h2><br>
+<h2 align="center">Quinto Semestre - Task Manager, o aplicativo organizacional para a Oracle Academy </h2>
 <h4 align="left">Objetivo</h4>
 O desafio proposto pela Oracle Academy era de desenvolver uma aplicação mobile que visa a organização, priorização de tarefas e atribuições diárias, tanto na rotina pessoal quanto no mundo corporativo, priorizando-as por urgência e com marcações de tempo para um controle mais preciso tanto dos objetivos quanto das tarefas, além da mensuração da quantidade de tarefas realizadas e apresentação mensal de resultados de determinado usuário em um dashboard. 
 
@@ -250,7 +250,7 @@ https://github.com/EquipeGfour/API-5Semestre-OracleAcademy
 
 <span id="6semestre">
 
-<h2 align="center">Sexto Semestre - Sistema de Sumarização para a Empresa Dom Rock </h2><br>
+<h2 align="center">Sexto Semestre - Sistema de Sumarização para a Empresa Dom Rock </h2>
 <h4 align="left">Objetivo</h4> 
 O objetivo deste projeto é desenvolver um sistema inovador que utiliza inteligência artificial (IA) em linguagem natural para sumarizar automaticamente grandes volumes de comentários de clientes. O sistema irá gerar resumos concisos e informativos, categorizados por diversos critérios relevantes para análise, como produto, categoria, recomendação, geografia e demografia.
 
